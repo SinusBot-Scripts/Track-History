@@ -3,9 +3,9 @@
 ![Version](https://img.shields.io/github/package-json/v/sinusbot-scripts/track-history)
 ![npm (scoped)](https://img.shields.io/npm/v/@sinusbot-scripts/track-history)
 
-# Script Name
+# Track History
 
-Script Description.
+Track song history.
 
 
 ## TODO

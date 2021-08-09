@@ -1,8 +1,8 @@
 {
   "name": "@sinusbot-scripts/track-history",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Track song history.",
-  "main": "script-name.js",
+  "main": "track-history.js",
   "scripts": {
     "test": "node dummy-test.js"
   },
