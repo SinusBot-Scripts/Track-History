@@ -1,7 +1,7 @@
-[![Package CI/CD](https://github.com/SinusBot-Scripts/script-name/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/SinusBot-Scripts/script-name/actions/workflows/npm-publish.yml)
-[![CodeQL](https://github.com/SinusBot-Scripts/script-name/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/SinusBot-Scripts/script-name/actions/workflows/codeql-analysis.yml)
-![Version](https://img.shields.io/github/package-json/v/sinusbot-scripts/script-name)
-![npm (scoped)](https://img.shields.io/npm/v/@sinusbot-scripts/script-name)
+[![Package CI/CD](https://github.com/SinusBot-Scripts/Track-History/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/SinusBot-Scripts/Track-History/actions/workflows/npm-publish.yml)
+[![CodeQL](https://github.com/SinusBot-Scripts/Track-History/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/SinusBot-Scripts/Track-History/actions/workflows/codeql-analysis.yml)
+![Version](https://img.shields.io/github/package-json/v/sinusbot-scripts/track-history)
+![npm (scoped)](https://img.shields.io/npm/v/@sinusbot-scripts/track-history)
 
 # Script Name
 
